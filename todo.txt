@@ -1,0 +1,7 @@
+Make attacks use animation_step, but also ONLY do actions if animation is at required animation to do action (like winding up for cleave)
+Use rectangle for sword
+Cleave:
+	Windup
+	Release
+Make other weapons
+Make first boss AI
